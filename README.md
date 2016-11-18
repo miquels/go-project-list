@@ -12,6 +12,7 @@
 ### Application frameworks with REST / HTTP / DB support
 - [Beego Framework](https://beego.me/) Rest / MVC / Database framework
 - [CRUD API](https://github.com/sauerbraten/crudapi) Go implementation of a RESTful JSON API exposing CRUD functionality relying on a custom storage.
+- [Goal](https://github.com/thomasdao/goal) Golang Restful API for SQL (Gorm) backends
 
 ### ORM
 - [Gorm](http://jinzhu.github.io/gorm) The fantastic ORM library for Golang
